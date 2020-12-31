@@ -7,5 +7,5 @@ Task Description 📃
 
 12.2 Configure the same setup as 12.1 over AWS using instance over there.
 
-#ansible all -m ping
+## ansible all -m ping
 ## ansible all --list-hosts 
